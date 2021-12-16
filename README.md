@@ -1,1 +1,1 @@
-# Analyze-AB-test-result
+# Udacity Project - Analyze-AB-test-result
